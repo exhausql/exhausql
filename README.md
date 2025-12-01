@@ -8,10 +8,10 @@
   <a href="https://discord.com/users/242446172516515857" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-  <a href="https://www.instagram.com/exhausql/" target="_blank">
+  <a href="https://www.instagram.com/joibtc/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="https://t.me/exhausql" target="_blank">
+  <a href="https://t.me/joibtc" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 </div>
@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">🌐 𝗜'𝗺 𝗘𝘅𝗵𝗮𝘂𝘀, 𝗮 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗯𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝘄𝗲𝗯 𝗮𝗽𝗽𝘀 𝗮𝗻𝗱 𝗲𝘅𝗽𝗹𝗼𝗿𝗶𝗻𝗴 𝗻𝗲𝘄 𝘁𝗲𝗰𝗵.  <br><br>💻 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻 𝗳𝘂𝗹𝗹 𝘀𝘁𝗮𝗰𝗸 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀  <br>📚 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗡𝗲𝘅𝘁.𝗷𝘀 & 𝗡𝗼𝗱𝗲.𝗷𝘀  <br>⚡ 𝗙𝗿𝗲𝗲 𝘁𝗶𝗺𝗲: 𝗰𝗼𝗱𝗶𝗻𝗴, 𝗼𝗽𝗲𝗻-𝘀𝗼𝘂𝗿𝗰𝗲, 𝗮𝗻𝗱 𝘁𝗲𝗰𝗵 𝗲𝘅𝗽𝗲𝗿𝗶𝗺𝗲𝗻𝘁𝘀</p>
+<p align="left">🌐 𝗜'𝗺 Joi, 𝗮 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗯𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝘄𝗲𝗯 𝗮𝗽𝗽𝘀 𝗮𝗻𝗱 𝗲𝘅𝗽𝗹𝗼𝗿𝗶𝗻𝗴 𝗻𝗲𝘄 𝘁𝗲𝗰𝗵.  <br><br>💻 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻 𝗳𝘂𝗹𝗹 𝘀𝘁𝗮𝗰𝗸 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀  <br>📚 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗡𝗲𝘅𝘁.𝗷𝘀 & 𝗡𝗼𝗱𝗲.𝗷𝘀  <br>⚡ 𝗙𝗿𝗲𝗲 𝘁𝗶𝗺𝗲: 𝗰𝗼𝗱𝗶𝗻𝗴, 𝗼𝗽𝗲𝗻-𝘀𝗼𝘂𝗿𝗰𝗲, 𝗮𝗻𝗱 𝘁𝗲𝗰𝗵 𝗲𝘅𝗽𝗲𝗿𝗶𝗺𝗲𝗻𝘁𝘀</p>
 
 ###
 
